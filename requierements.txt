@@ -1,5 +1,4 @@
 #requierements.txt
-snowflake
-snowflake-connector-python
+snowflake-connector-python==2.9.1
 cffi==1.15.0
 pyarrow==6.0.1
